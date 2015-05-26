@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     @IBAction func calculateTip(sender: AnyObject) {
         
         //println("Look at what I did!")
+        // Seeing what Git does
         
         let inputString = inputTextField.text;
         
